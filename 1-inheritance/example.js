@@ -4,6 +4,8 @@
 // git branch -M main
 // git push -u origin main
 
+// Now I made a branch call bugFix and will work on this branch
+
 // Inheritance using Classes
 class Person {
   talk() {

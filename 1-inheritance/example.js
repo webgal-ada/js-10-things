@@ -1,5 +1,9 @@
 //this was fork over from following Sina
 
+// git remote add origin https://github.com/webgal-ada/FromSinaFok.git
+// git branch -M main
+// git push -u origin main
+
 // Inheritance using Classes
 class Person {
   talk() {

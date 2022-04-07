@@ -4,6 +4,8 @@
 // git branch -M main
 // git push -u origin main
 
+//This is the third commit from "main"
+
 // Inheritance using Classes
 class Person {
   talk() {
